@@ -1,0 +1,30 @@
+#con{
+    display: flex;
+    justify-content:space-evenly;
+    
+    
+}
+.name1,.name2{
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(241, 229, 238);
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    color: chartreuse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(168, 160, 168);
+}
+img{
+    border-radius: 12%;
+}
+footer{
+    padding: 10px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: large;
+    color: gold;
+}
